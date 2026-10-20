@@ -1,0 +1,1 @@
+print("=== THỰC ĐƠN ===\nTrà sữa       25k\nTrà đào       25k\nCà phê        18k")
