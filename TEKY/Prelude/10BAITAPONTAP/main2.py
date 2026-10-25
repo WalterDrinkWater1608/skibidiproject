@@ -1,0 +1,2 @@
+print("Trong các biến được nêu trên: 2diem, ho_ten, tong tien, class, diemTB, so-luong\nBiến 2diem, tong tien và class là các biến đặt sai")
+print("Sửa lại:\n2diem => diem2\ntong tien => tong_tien\nclass => class0")

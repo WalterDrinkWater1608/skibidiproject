@@ -1,0 +1,5 @@
+name = input("Nhập họ và tên của bạn: ")
+name1 = name.strip()
+uppername = name1.upper()
+lowername = name1.lower()
+print(f"Họ tên '{uppername}' (Chữ thường là '{lowername}') có {len(uppername)} ký tự")
